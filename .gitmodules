@@ -1,0 +1,3 @@
+[submodule "Novehs/vendor/spdlog"]
+	path = Novehs/vendor/spdlog
+	url = https://github.com/gabime/spdlog
